@@ -24,7 +24,7 @@ Two types of **sensor technologies** are installed in this building: Wi-Fi senso
 
 **Two smart meters** independently measure the **electrical energy consumption** of both the elevator and the heating, ventilation, and air conditioning (HVAC) system.
 
-## 🎓Developer
+## 🎓 Developer
 
 Alban STEFF
 * Student @ESILV.
